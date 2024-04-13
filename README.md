@@ -18,7 +18,7 @@
 I am a Computer Science and Networks student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Portugal.
 
 - 🔭 I am currently working on in Thales, doing projects in the RailRoad regime
-- 🌱 I am currently learning computacional networks, and also got as an objective to finish a CCNA course from CISCO
+- 🌱 I am currently learning computacional networks, and also got as an objective to finish a CCNA course from CISCO in 2 years time
 - 👯 I am looking to collaborate on doing projects, in part-time hours
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/henriquesampayoabrantes/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
