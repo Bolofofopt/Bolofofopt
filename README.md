@@ -25,6 +25,8 @@ I am a Computer Science and Networks student <img src="https://media.giphy.com/m
   </a>
 - ⚡ Fun fact: I am a musician and was an actor
 
+In Thales I:
+...
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
