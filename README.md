@@ -26,6 +26,9 @@ I am a Computer Science and Networks student <img src="https://media.giphy.com/m
 - ⚡ Fun fact: I am a musician and was an actor
 
 In Thales I:
+Developed and implemented a sensor that help managing remote lockers placed in railroads saving time and money doing anual check ups.
+
+Developed and implemented a sensor that manages the UPS room ambient & hydrogen in Thales headquarters.
 ...
 
 ### :hammer_and_wrench: Languages and Tools :
