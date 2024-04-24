@@ -21,12 +21,13 @@ I am a Computer Science and Networks student <img src="https://media.giphy.com/m
 - 🌱 I am currently learning computacional networks, and also got as an objective to finish a CCNA course from CISCO in 2 years time
 - 👯 I am looking to collaborate on doing projects, in part-time hours
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/henriquesampayoabrantes/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt
+="LinkedIn Badge"/>
   </a>
 - ⚡ Fun fact: I am a musician and was an actor
 
 #### In Thales I:
-Developed a sensor that help managing remote lockers placed in railroads saving time and money doing anual check ups.
+Developed a sensor that manages remote lockers placed in railroads saving time and money doing anual check ups.
 
 Developed a sensor that manages the UPS room ambient & hydrogen in Thales headquarters.
 ...
