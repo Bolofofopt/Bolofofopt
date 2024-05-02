@@ -27,10 +27,12 @@ I am a Computer Science and Networks student <img src="https://media.giphy.com/m
 - ⚡ Fun fact: I am a musician and was an actor
 
 #### In Thales I:
-Developed a sensor that manages remote lockers placed in railroads saving time and money doing anual check ups.
+- Developed a sensor that manages remote lockers placed in railroads saving time and money doing anual check ups.
 
-Developed a sensor that manages the UPS room ambient & hydrogen in Thales headquarters.
-...
+- Developed a sensor that manages the UPS room ambient & hydrogen in Thales headquarters.
+
+- Developed an Artificial Intelligence that analyses CCTV footage and captions de image.
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -48,6 +50,7 @@ Developed a sensor that manages the UPS room ambient & hydrogen in Thales headqu
 
 
 ### :fire: My Stats :
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bolofofopt&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bolofofopt&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
