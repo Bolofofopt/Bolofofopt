@@ -27,11 +27,11 @@ I am a Computer Science and Networks student <img src="https://media.giphy.com/m
 - ⚡ Fun fact: I am a musician and was an actor
 
 #### In Thales I:
-- Developed a sensor that manages remote lockers placed in railroads saving time and money doing anual check ups.
+- Developed a sensor that help managing LOCs (Location Cases & Cabinets) on railroads saving time and money doing annual check-ups.
 
-- Developed a sensor that manages the UPS room ambient & hydrogen in Thales headquarters.
+- Developed a sensor that manages remotely the UPS room in Thales headquarters.
 
-- Developed an Artificial Intelligence that analyses CCTV footage and captions the image.
+- Developed an Artificial Intelligence that analyses CCTV footage and classifies the image.
 
 
 ### :hammer_and_wrench: Languages and Tools :
