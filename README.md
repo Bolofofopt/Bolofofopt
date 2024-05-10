@@ -17,7 +17,7 @@
 ### :man_technologist: About Me :
 I am a Computer Science and Networks student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Portugal.
 
-- 🔭 I am currently working on in Thales, doing projects in the RailRoad regime
+- 🔭 I am currently working for Thales, doing projects in the RailRoad regime
 - 🌱 I am currently learning computacional networks, and also got as an objective to finish a CCNA course from CISCO in 2 years time
 - 👯 I am looking to collaborate on doing projects, in part-time hours
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/henriquesampayoabrantes/">
@@ -36,7 +36,8 @@ I am a Computer Science and Networks student <img src="https://media.giphy.com/m
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C Programming Language" alt="C" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C Programming Language" alt
+="C" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp
