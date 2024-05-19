@@ -52,6 +52,7 @@ I am a Robotics & Artificial Intelligence student <img src="https://media.giphy.
 ### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bolofofopt&theme=dark&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Bolofofopt)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bolofofopt&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
