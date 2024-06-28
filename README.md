@@ -17,16 +17,16 @@
 ### :man_technologist: About Me :
 I am a Robotics & Artificial Intelligence student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Portugal.
 
-- 🔭 I am currently working for Thales, doing projects in the RailRoad regime
-- 🌱 I am currently learning Robotics & Artificial Intelligence
-- 👯 I am looking to collaborate in projects, on a part-time basis
+- 🔭 I worked in Thales/Hitachi Rail doing projects in the RailRoad regime
+- 🌱 I am currently studying Robotics & Artificial Intelligence
+- 👯 I am available to collaborate in projects, on a part-time basis
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/henriquesampayoabrantes/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt
 ="LinkedIn Badge"/>
   </a>
 - ⚡ Fun fact: I am a musician and was an actor
 
-#### In Thales I:
+#### In Thales/Hitachi Rail I:
 - Developed a sensor that help managing LOCs (Location Cases & Cabinets) on railroads saving time and money doing annual check-ups.
 
 - Developed a sensor that manages remotely the UPS room in Thales headquarters.
