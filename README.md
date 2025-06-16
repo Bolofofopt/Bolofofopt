@@ -11,11 +11,11 @@ I am a Robotics & Artificial Intelligence student <img src="https://media.giphy.
   </a>
 - ⚡ Fun fact: I am a musician and was an actor
 
-#### In Thales/Hitachi Rail I:
-- Developed a sensor that help managing LOCs (Location Cases & Cabinets) on railroads saving time and money doing annual check-ups.
 
-- Developed a sensor that manages remotely the UPS room in Thales headquarters.
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bolofofopt&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bolofofopt&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -31,16 +31,3 @@ I am a Robotics & Artificial Intelligence student <img src="https://media.giphy.
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp
 </div>
-
-
-
-### :fire: My Stats :
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bolofofopt&theme=dark&mode=weekly)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bolofofopt&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-### My personal WebSite:
-
-https://henrique.miguelabrantes.pt
