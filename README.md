@@ -1,20 +1,5 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGdpc3duZHJzeHdzdWw1NmNyZHR0Y3dnbGlvOXp6ZGFsYzJiNmp2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/henriquesampayoabrantes/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
-### Hi there / Olá 👋
-
-### :man_technologist: About Me :
+## Hi there / Olá 👋
+---
 I am a Robotics & Artificial Intelligence student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Portugal.
 
 - 🔭 I worked in Thales/Hitachi Rail doing projects in the RailRoad regime
